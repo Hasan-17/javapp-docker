@@ -20,7 +20,8 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/praveen1994dec/Java_app_3.0.git"
+                url: "git 'https://github.com/Hasan-17/javapp-docker.git'
+"
             )
             }
         }
